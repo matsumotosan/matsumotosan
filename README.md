@@ -6,4 +6,4 @@ Briefly, my research interests lie at the intersection of machine learning and c
 1) developing new methods for analyzing and interpreting neural datasets.
 2) drawing inspiration from biological brains to design novel architectures and methods
 
-Apart from my research, I am a core maintainer for PyTorch Lightning Bolts.
+Apart from my research, I am a core maintainer for [PyTorch Lightning Bolts](https://github.com/Lightning-AI/lightning-bolts).
