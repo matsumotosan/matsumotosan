@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a second-year PhD student in Biomedical Engineering at the University of Michigan, Ann Arbor.
+
+Briefly, my research interests lie at the intersection of machine learning and computational neuroscience.
 <!--
 **matsumotosan/matsumotosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
