@@ -10,4 +10,4 @@ More broadly, I am interested in self-supervised learning, multi-modal learning,
 
 Apart from my research, I am a core maintainer for [PyTorch Lightning Bolts](https://github.com/Lightning-AI/lightning-bolts).
 
-I previously completed my MS in Mechanical Engineering at the University of Minnesota, Twin Cities. There, I conducted research with [Victor Barocas](https://cse.umn.edu/bme/victor-barocas), where my thesis was on the computational phenotyping of thoracic aortic aneurysms.
+I previously completed my MS in Mechanical Engineering at the University of Minnesota, Twin Cities where I research the computational phenotyping of thoracic aortic aneurysms in the [Barocas Lab](https://sites.google.com/a/umn.edu/barocas/home).
