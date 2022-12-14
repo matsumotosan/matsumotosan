@@ -6,7 +6,7 @@ Briefly, my research interests lie at the intersection of machine learning and c
 1) Developing new methods for analyzing and interpreting neural datasets.
 2) Drawing inspiration from biological brains to design novel architectures and methods
 
-More broadly, I am interested in self-supervised learning, multi-modal learning, and numerical linear algebra.
+More broadly, I am interested in using machine learning as an introspective tool to elucidate the mechanisms that drive biological and artificial intelligence. Some tools of interest to me are self-supervised learning, multi-modal learning, and numerical linear algebra.
 
 Apart from my research, I am a core contributor for [PyTorch Lightning Bolts](https://github.com/Lightning-AI/lightning-bolts).
 
