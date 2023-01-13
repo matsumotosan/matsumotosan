@@ -8,4 +8,4 @@ More broadly, I am interested in using machine learning as an introspective tool
 
 Apart from my research, I am a core contributor for [PyTorch Lightning Bolts](https://github.com/Lightning-AI/lightning-bolts).
 
-I previously worked at the [Computational Vascular Biomechanics Lab](https://bloodflow.engin.umich.edu/) during my PhD in Biomedical Engineering at the University of Michigan, Ann Arbor. Before that, I completed my MS in Mechanical Engineering at the University of Minnesota, Twin Cities where I researched the computational phenotyping of thoracic aortic aneurysms in the [Barocas Lab](https://sites.google.com/a/umn.edu/barocas/home).
+I previously worked at the [Computational Vascular Biomechanics Lab](https://bloodflow.engin.umich.edu/) as a PhD pre-candadiate in Biomedical Engineering at the University of Michigan, Ann Arbor. Before that, I completed my MS in Mechanical Engineering at the University of Minnesota, Twin Cities where I researched the computational phenotyping of thoracic aortic aneurysms in the [Barocas Lab](https://sites.google.com/a/umn.edu/barocas/home).
