@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on knowledge graphs for materials informatics at [Corpy](https://corpy.co.jp/) as a Machine Learning intern.
+I am currently working on knowledge graphs for materials informatics at [Corpy](https://corpy.co.jp/) as a Research Engineer.
 
 My research interests lie at the intersection of machine learning and computational neuroscience. My focus is two-fold:
 1) Developing new methods for analyzing and interpreting neural datasets.
