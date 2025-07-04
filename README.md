@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student in Computer Science and Engineering at the University of South Florida. I work at the [Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab](https://tkai-lab.github.io/) focusing on neurosymbolic AI, predictive coding, and physics-informed neural networks. I am also a recipient of the 2024 Quad Fellowship by IIE.
+I am a PhD student in Computer Science and Engineering at the University of South Florida. I work at the [Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab](https://tkai-lab.github.io/) focusing on neurosymbolic AI, predictive coding, and physics-informed neural networks. I am also a recipient of the 2024 [Quad Fellowship](https://www.quadfellowship.org/).
 
 More broadly, I am interested in using machine learning as a tool to elucidate the mechanisms that drive biological and artificial intelligence. For this, I believe modern paradigms such as self-supervised learning, multi-modal learning, and continual learning could offer invaluable insight into the mechanisms of learning.
 
